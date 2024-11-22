@@ -1,4 +1,4 @@
-# The Eye - resources
+# The Eye
 A repository to store all releases from The Eye application.
 
 ## Installation
