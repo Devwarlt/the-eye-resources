@@ -1,21 +1,14 @@
 # The Eye - resources
 A repository to store all releases from The Eye application.
 
+## Installation
+
+1. (required) Download [__Java__](https://www.java.com/en/download/)
+2. (required) Download [__Npcap 1.79__ (stable version)](https://npcap.com/dist/npcap-1.79.exe)
+3. (required) If there is no EXE file after extraction, ensure your [Windows Threat Protection settings is off](www.google.com/search?q=windows+threat+protection+deleting+files+from+external+source)
+4. (optional) Download [__RPGSystem font__](https://raw.githubusercontent.com/Devwarlt/the-eye-resources/refs/heads/main/assets/RPGSystem.ttf) to apply on The Eye application: once it's downloaded, install the font
+5. Download latest version of The Eye at [releases](/releases)
+6. If you don't have .NET Framework installed on your computer, don't worry. On first run The Eye will redirect to download such dependency with a quick link. Install it through official Microsoft page and reopen application
+
 ### Credits
 - [X-com](https://github.com/X-com) - thanks for providing support to [RealmShark](https://github.com/X-com/RealmShark)
-
-## Major Dependencies
-
-> ⚠️ **Java** and **Npcap** is required for running the program.
-
-### Java
-
-> Click on image to download **Java**.
-
-[![image](https://user-images.githubusercontent.com/5974568/183230180-f9a66d31-2ed4-4073-8af2-cda12f271d01.png)](https://www.java.com/en/download/).
-
-### Npcap
-
-> Click on image to download **Npcap**.
-
-[![image](https://user-images.githubusercontent.com/5974568/183230181-b8eacef2-71f3-47f5-8d46-959eb1bb82bf.png)](https://npcap.com/#download).
