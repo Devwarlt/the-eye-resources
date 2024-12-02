@@ -54,7 +54,7 @@ Section created to redirect to the most frequent asked questions (FAQ).
 - [@Devwarlt](https://github.com/Devwarlt)
 
 [license]: /LICENSE
-[license-badge]: https://img.shields.io/badge/MIT-gray?style=plastic
+[license-badge]: https://img.shields.io/badge/CC0%201.0-gray?style=plastic
 [latest]: https://github.com/Devwarlt/the-eye-resources/releases/latest
 [net-desktop-runtime]: https://download.visualstudio.microsoft.com/download/pr/8d6c1aaa-7d58-455a-acec-aab350860582/ab5f7c23dc72516e77065fcaf99ad444/aspnetcore-runtime-8.0.11-win-x64.exe
 
