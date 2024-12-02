@@ -15,10 +15,11 @@ To ensure everything is working well, your computer must meet the following requ
 - **OS Architecture:** `64-bits`
 - **Memory (RAM):** `2 GB`
 - **Disk:** `512 MB`
-- **Dependency:** `Java 8`
-- **Dependency:** `Npcap 1.79`
-- **Dependency:** `.NET Desktop Runtime 8`
-  - :warning: This dependency is required to ensure The Eye's applications initialization. The Microsoft dependency check sometimes doesn't prompt to the user to download it, so if this is your case consider to download here directly. For more details read [**subsection**](#bug-the-eye---desktop-launcher-starts-and-then-closes-suddenly-how-to-fix).
+- **Dependencies:**
+  - `Java 8`
+  - `Npcap 1.79`
+  - `.NET Desktop Runtime 8`
+    - :warning: This dependency is required to ensure The Eye's applications initialization. The Microsoft dependency check sometimes doesn't prompt to the user to download it, so if this is your case consider to download here directly. For more details read [**subsection**](#bug-the-eye---desktop-launcher-starts-and-then-closes-suddenly-how-to-fix).
 
 ### Troubleshooting
 Section created to solve known issues with The Eye distributed applications.
