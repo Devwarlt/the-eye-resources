@@ -42,7 +42,7 @@ Section created to redirect to the most frequent asked questions (FAQ).
 >
 > We are into gray zone of ToS by DECA Live Operations GmbH and aware of it. However, rather than thinking of a possible banishment, keep in mind that we don't develop any cheating tool nor hacking exploit to contribute with game vulnerabilites such as all cheating softwares known by community since then.
 > 
-> Using The Eye's applications don't provide any sort of advantage in game. We don't inject nor effect your gameplay while playing. We do read game network packets and deserialize them into readable data, no sensitive data is being touched such as credentials or session tokens.
+> Using The Eye's applications don't provide any sort of advantage in game. We don't inject nor effect your gameplay while playing. We do read game network packets and deserialize them into readable data, no sensitive data is being touched such as credentials or session tokens. A great example is [RealmEye](https://www.realmeye.com/), they collect your in-game data and display on their platform.
 >
 > If you want to read the source code used in The Eye's application, consider to check it out [RealmShark API repository](https://github.com/X-com/RealmShark) created by X-com.
 
