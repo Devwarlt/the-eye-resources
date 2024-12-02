@@ -27,16 +27,16 @@ Section created to solve known issues with The Eye distributed applications.
 #### [BUG] `The Eye - Desktop launcher` starts and then closes suddenly. How to fix?
 > 💡**Solution:** `The Eye - Deskop launcher` demands `.NET Desktop Runtime 8` or superior to execute properly. The solution for this runtime issue is downloading the dependency [**here**][net-desktop-runtime]. Once you do install it on your computer, reopen `The Eye - Desktop launcher`.
 
-### FAQ
+## FAQ
 Section created to redirect to the most frequent asked questions (FAQ).
 
-#### **Question:** I'm experience issues when using `The Eye - Desktop edition`, where should I report?
+### **Question:** I'm experience issues when using `The Eye - Desktop edition`, where should I report?
 > ℹ️**Answer:** [Open a new issue](https://github.com/Devwarlt/the-eye-resources/issues/new/choose) on this repository and provide any useful information on how to replicate the issue.
 
-#### **Question:** I do have suggestions and feedback, where should I go?
+### **Question:** I do have suggestions and feedback, where should I go?
 > ℹ️**Answer:** First, thanks for willing to help us. You can [open a new issue](https://github.com/Devwarlt/the-eye-resources/issues/new/choose) and describe with more details your suggestion or feedback, we're going to be happy to read it 😄 .
 
-#### **Question:** Can I be banned when using The Eye's applications?
+### **Question:** Can I be banned when using The Eye's applications?
 > ℹ️**Answer:** No and you shouldn't worry about it. The Eye's applications share the RotMGStats Team principles, we are here to support our community and propagate RotMG Exalt to a new horizon.
 >
 > Anything that you hear about people talking of eventual banishment are pure speculation.
