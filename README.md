@@ -51,7 +51,10 @@ Section created to redirect to the most frequent asked questions (FAQ).
 - [X-com](https://github.com/X-com) - thanks for providing support to the [RealmShark](https://github.com/X-com/RealmShark) API
 
 ## RotMGStats Team
-- [@Devwarlt](https://github.com/Devwarlt)
+1. [**Durin**](https://www.realmeye.com/player/Durin): project owner; developer
+2. [**Tarma**](https://www.realmeye.com/player/Tarma): SFX designer
+3. [**Semily**](https://www.realmeye.com/player/Semily): GFX designer; simulator owner
+4. [**GEEEEEEEEEEEEEB**](https://www.realmeye.com/player/GEEEEEEEEEEEEEB): collab
 
 [license]: /LICENSE
 [license-badge]: https://img.shields.io/badge/CC0%201.0-gray?style=plastic
