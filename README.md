@@ -53,7 +53,7 @@ Section created to redirect to the most frequent asked questions (FAQ).
 ## RotMGStats Team
 1. [**Durin**](https://www.realmeye.com/player/Durin): project owner; developer
 2. [**Tarma**](https://www.realmeye.com/player/Tarma): SFX designer
-3. [**Semily**](https://www.realmeye.com/player/Semily): GFX designer; simulator owner
+3. [**Semily**](https://www.realmeye.com/player/Semily): simulator project owner; GFX designer
 4. [**GEEEEEEEEEEEEEB**](https://www.realmeye.com/player/GEEEEEEEEEEEEEB): collab
 
 [license]: /LICENSE
