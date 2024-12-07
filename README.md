@@ -55,6 +55,7 @@ Section created to redirect to the most frequent asked questions (FAQ).
 2. [**Tarma**](https://www.realmeye.com/player/Tarma): SFX designer
 3. [**Semily**](https://www.realmeye.com/player/Semily): simulator project owner; GFX designer
 4. [**GEEEEEEEEEEEEEB**](https://www.realmeye.com/player/GEEEEEEEEEEEEEB): collab
+5. [**Xirra**](https://www.realmeye.com/player/Xirra): community manager; analytics
 
 [license]: /LICENSE
 [license-badge]: https://img.shields.io/badge/CC0%201.0-gray?style=plastic
