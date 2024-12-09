@@ -6,6 +6,10 @@
 
 We designed The Eye to assist you when playing RotMG 😉 .
 
+## Motivation
+
+The Eye is a software used to supply information for RotMGStats platform and engage community with a different perspectives to play RotMG. Therefore, challenges, achievements and much more contents are going to be added into this program to motivate them to improve their skills and game progression over the years among player-base.
+
 ## Installation
 All that you need is **The Eye - Desktop launcher** to fetch for live updates, download it [**here**](https://github.com/Devwarlt/the-eye-resources/raw/refs/heads/main/redist/The%20Eye%20-%20Installer.exe).
 
