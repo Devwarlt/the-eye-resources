@@ -51,15 +51,16 @@ Section created to redirect to the most frequent asked questions (FAQ).
 >
 > If you want to read the source code used in The Eye's application, consider to check it out [RealmShark API repository](https://github.com/X-com/RealmShark) created by X-com.
 
-## Special Credits
-- [X-com](https://github.com/X-com) - thanks for providing support to the [RealmShark](https://github.com/X-com/RealmShark) API
-
 ## RotMGStats Team
 1. [**Durin**](https://www.realmeye.com/player/Durin): project owner; developer
 2. [**Tarma**](https://www.realmeye.com/player/Tarma): SFX designer
 3. [**Semily**](https://www.realmeye.com/player/Semily): simulator project owner; GFX designer
 4. [**GEEEEEEEEEEEEEB**](https://www.realmeye.com/player/GEEEEEEEEEEEEEB): collab
 5. [**Xirra**](https://www.realmeye.com/player/Xirra): community manager; analytics
+
+## Special Credits
+- [X-com](https://github.com/X-com) - thanks for providing support to the [RealmShark](https://github.com/X-com/RealmShark) API
+- [RealmEye](https://www.realmeye.com/) - thanks for providing support to the game assets & several data
 
 [license]: /LICENSE
 [license-badge]: https://img.shields.io/badge/CC0%201.0-gray?style=plastic
