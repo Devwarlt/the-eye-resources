@@ -11,7 +11,7 @@ We designed The Eye to assist you when playing RotMG 😉 .
 The Eye is a software used to supply information for RotMGStats platform and engage community with a different perspectives to play RotMG. Therefore, challenges, achievements and much more contents are going to be added into this program to motivate them to improve their skills and game progression over the years among player-base.
 
 ## Installation
-All that you need is **The Eye - Desktop launcher** to fetch for live updates, download it [**here**](https://github.com/Devwarlt/the-eye-resources/raw/refs/heads/main/redist/The%20Eye%20-%20Installer.exe).
+All that you need is **The Eye - Desktop launcher** to fetch for live updates, download it [**here**][launcher].
 
 ### System Requirements
 To ensure everything is working well, your computer must meet the following requirements:
@@ -65,7 +65,8 @@ Section created to redirect to the most frequent asked questions (FAQ).
 [license]: /LICENSE
 [license-badge]: https://img.shields.io/badge/CC0%201.0-gray?style=plastic
 [latest]: https://github.com/Devwarlt/the-eye-resources/releases/latest
-[net-desktop-runtime]: https://download.visualstudio.microsoft.com/download/pr/8d6c1aaa-7d58-455a-acec-aab350860582/ab5f7c23dc72516e77065fcaf99ad444/aspnetcore-runtime-8.0.11-win-x64.exe
+[net-desktop-runtime]: https://github.com/Devwarlt/the-eye-resources/raw/refs/heads/main/redist/dotnet-desktop-runtime-8.exe
+[launcher]: https://github.com/Devwarlt/the-eye-resources/raw/refs/heads/main/redist/The%20Eye%20-%20Installer.exe
 
 [size-badge]: https://img.shields.io/github/repo-size/Devwarlt/the-eye-resources?style=plastic
 [language-badge]: https://img.shields.io/badge/8.0%2B-purple?logo=cs&style=plastic
