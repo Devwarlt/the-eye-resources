@@ -37,6 +37,19 @@ Section created to solve known issues with The Eye distributed applications.
 > 
 > **UPDATE:** This bug was already fixed on `The Eye - Desktop launcher` version 1.2.4.0.
 
+#### [BUG] Windows Defender keeps deleting `The Eye - Installer.exe` without my permission. How to fix?
+> 💡**Solution:** Follow steps below:
+> 1. Click Start.
+> 2. Click Settings.
+> 3. Click Update & Security.
+> 4. Click Windows Security.
+> 5. Click Virus & threat protection in right-hand pane.
+> 6. Scroll down and click Manage settings under Virus & threat protection settings.
+> 7. Scroll down to Add or remove exclusions under Exclusions.
+> 8. Add the exclusion you want.
+>
+> *This snippet was taken from [**RickC's post**](https://www.tenforums.com/antivirus-firewalls-system-security/157717-how-create-exception-nirsoft-utilities-windows-security.html#post1927831) at Windows TenForums page.*
+
 ## FAQ
 Section created to redirect to the most frequent asked questions (FAQ).
 
