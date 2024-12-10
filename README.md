@@ -22,14 +22,14 @@ To ensure everything is working well, your computer must meet the following requ
 - **Dependencies:**
   - `Java 8`
   - `Npcap 1.79`
-  - `.NET Desktop Runtime 8`
+  - `.NET Desktop Runtime 8+`
     - :warning: This dependency is required to ensure The Eye's applications initialization. The Microsoft dependency check sometimes doesn't prompt to the user a download button, so if this is your case consider to download here directly. For more details read [**subsection**](#bug-the-eye---desktop-launcher-starts-and-then-closes-suddenly-how-to-fix).
 
 ### Troubleshooting
 Section created to solve known issues with The Eye distributed applications.
 
 #### [BUG] `The Eye - Desktop launcher` starts and then closes suddenly. How to fix?
-> 💡**Solution:** `The Eye - Deskop launcher` demands `.NET Desktop Runtime 8` or superior to execute properly. The solution for this runtime issue is downloading the dependency [**here**][net-desktop-runtime]. Once you do install it on your computer, reopen `The Eye - Desktop launcher`.
+> 💡**Solution:** `The Eye - Deskop launcher` demands `.NET Desktop Runtime` or superior to execute properly. The solution for this runtime issue is downloading the dependency [**here**][net-desktop-runtime]. Once you do install it on your computer, reopen `The Eye - Desktop launcher`.
 
 ## FAQ
 Section created to redirect to the most frequent asked questions (FAQ).
@@ -65,7 +65,7 @@ Section created to redirect to the most frequent asked questions (FAQ).
 [license]: /LICENSE
 [license-badge]: https://img.shields.io/badge/CC0%201.0-gray?style=plastic
 [latest]: https://github.com/Devwarlt/the-eye-resources/releases/latest
-[net-desktop-runtime]: https://github.com/Devwarlt/the-eye-resources/raw/refs/heads/main/redist/dotnet-desktop-runtime-8.exe
+[net-desktop-runtime]: https://github.com/Devwarlt/the-eye-resources/raw/refs/heads/main/redist/dotnet-desktop-runtime.exe
 [launcher]: https://github.com/Devwarlt/the-eye-resources/raw/refs/heads/main/redist/The%20Eye%20-%20Installer.exe
 
 [size-badge]: https://img.shields.io/github/repo-size/Devwarlt/the-eye-resources?style=plastic
