@@ -77,6 +77,6 @@ Section created to redirect to the most frequent asked questions (FAQ).
 [size-badge]: https://img.shields.io/github/repo-size/Devwarlt/the-eye-resources?style=plastic
 [language-badge]: https://img.shields.io/badge/8.0%2B-purple?logo=cs&style=plastic
 [net-8-framework-badge]: https://img.shields.io/badge/%20-8.0%2B-512BD4?logo=.net&style=plastic
-[java-8-badge]: https://img.shields.io/badge/Java%20-8.0-yellow?logo=java&style=plastic
-[npcap-179-badge]: https://img.shields.io/badge/Npcap%20-1.79-orange?&style=plastic
+[java-8-badge]: https://img.shields.io/badge/Java%20-8.0-FF0000?logo=java&style=plastic
+[npcap-179-badge]: https://img.shields.io/badge/Npcap%20-1.79-220A37?&style=plastic
 [version-badge]: https://img.shields.io/github/release/Devwarlt/the-eye-resources?color=success&logo=github&style=plastic
