@@ -1,5 +1,9 @@
 # The Eye - `Play RotMG on another level!`
-[![license-badge]][license] [![version-badge]][latest] [![size-badge]][latest] ![net-8-framework-badge] ![java-8-badge] ![npcap-179-badge]
+[![license-badge]][license] [![version-badge]][latest] [![size-badge]][latest] ![net-8-framework-badge] ![java-8-badge] ![npcap-179-badge] [![vt-badge]][vt-report]
+
+[vt-badge]: https://img.shields.io/badge/Launcher-0%20of%2096-8A2BE2?style=social&logo=virustotal
+[vt-report]: https://www.virustotal.com/api/v3/urls/64b6ce96366ea3e79ded409dec5a015739c46962cf80c69af4bb1c3e094c4591
+
 > This repository is used to store all releases from The Eye application.
 
 **The Eye** is a Realm of the Mad God Exalt (RotMG) game tool used to improve players productivity created by RotMGStats Team.
