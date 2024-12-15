@@ -71,15 +71,15 @@ Section created to redirect to the most frequent asked questions (FAQ).
 > If you want to read the source code used in The Eye's application, consider to check it out [RealmShark API repository](https://github.com/X-com/RealmShark) created by X-com.
 
 ## RotMGStats Team
-1. [**Durin**](https://www.realmeye.com/player/Durin): project owner; developer
-2. [**Tarma**](https://www.realmeye.com/player/Tarma): SFX designer
-3. [**Semily**](https://www.realmeye.com/player/Semily): simulator project owner; GFX designer
-4. [**GEEEEEEEEEEEEEB**](https://www.realmeye.com/player/GEEEEEEEEEEEEEB): collab
-5. [**Xirra**](https://www.realmeye.com/player/Xirra): community manager; analytics
+1. [**Durin**](https://www.realmeye.com/player/Durin): Project Owner, Developer
+2. [**Tarma**](https://www.realmeye.com/player/Tarma): SFX Designer
+3. [**Semily**](https://www.realmeye.com/player/Semily): Simulator Project Owner, GFX designer
+4. [**GEEEEEEEEEEEEEB**](https://www.realmeye.com/player/GEEEEEEEEEEEEEB): Community Manager
+5. [**Xirra**](https://www.realmeye.com/player/Xirra): Community Manager, Analytics
 
 ## Special Credits
-- [X-com](https://github.com/X-com) - thanks for providing support to the [RealmShark](https://github.com/X-com/RealmShark) API
-- [RealmEye](https://www.realmeye.com/) - thanks for providing support to the game assets & several data
+- [X-com](https://github.com/X-com) - creator of [RealmShark API](https://github.com/X-com/RealmShark) API.
+- [RealmEye](https://www.realmeye.com/) - sprite assets and in-game information
 
 [license]: /LICENSE
 [license-badge]: https://img.shields.io/badge/CC0%201.0-gray?style=plastic
