@@ -78,7 +78,7 @@ Section created to redirect to the most frequent asked questions (FAQ).
 5. [**Xirra**](https://www.realmeye.com/player/Xirra): Community Manager, Analytics
 
 ## Special Credits
-- [X-com](https://github.com/X-com) - creator of [RealmShark API](https://github.com/X-com/RealmShark) API.
+- [X-com](https://github.com/X-com) - creator of [RealmShark API](https://github.com/X-com/RealmShark)
 - [RealmEye](https://www.realmeye.com/) - sprite assets and in-game information
 
 [license]: /LICENSE
